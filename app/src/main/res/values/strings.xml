@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CadetTracker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">CadetTracker</string>
+    <string name="nav_header_subtitle">NCC Learning Platform</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Menu Items -->
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_courses">Courses</string>
+    <string name="menu_attendance">Attendance</string>
+    <string name="menu_events">Events</string>
+    <string name="menu_camps">Camps</string>
+    <string name="menu_ai_tutor">AI Tutor</string>
+    <string name="menu_reports">Reports</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- Auth Strings -->
+    <string name="login_title">Login to CadetTracker</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_link">Don\'t have an account? Register</string>
+    <string name="forgot_password_link">Forgot Password?</string>
+
+    <!-- Errors -->
+    <string name="error_invalid_credentials">Invalid email or password. Please try again.</string>
+    <string name="error_user_exists">This email is already registered. Please login or use a different email.</string>
+    <string name="error_invalid_otp">Invalid or expired OTP. Please request a new OTP.</string>
+    <string name="error_permission_denied">You do not have permission to access this content.</string>
+    <string name="error_invalid_qr">Invalid QR code. Please try again or contact your instructor.</string>
+    <string name="error_offline_mode">Limited functionality in offline mode.</string>
+</resources>
